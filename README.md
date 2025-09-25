@@ -25,12 +25,6 @@ Make sure you have the following installed:
 
 ---
 
-### 🧩 Setup Instructions
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/credit-approval-system.git
-   cd credit-approval-system
 
 ### Run
 docker-compose up --build
